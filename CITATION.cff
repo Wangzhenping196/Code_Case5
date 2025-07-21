@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wang"
+  given-names: "Zhenping"
+- family-names: "Zhang"
+  given-names: "Wenming"
+- family-names: "Chen"
+  given-names: "Yupeng"
+title: "Supplementary Code for Case5"
+version: 1.0.0
+doi: 10.5281/zenodo.16258969
+date-released: 2025-7-21
