@@ -1,0 +1,527 @@
+/COM,ANSYS RELEASE 2022 R1           BUILD 22.1      UP20211129       15:21:35
+
+ *** WARNING ***                         CP =       9.547   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70030.         
+
+ *** WARNING ***                         CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70060.         
+
+ *** WARNING ***                         CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70090.         
+
+ *** WARNING ***                         CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70120.         
+
+ *** WARNING ***                         CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70150.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70180.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70210.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70240.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70270.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70300.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70330.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70360.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70390.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70420.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70450.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70480.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70510.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70540.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70570.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70600.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70630.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70660.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70690.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70720.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70750.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70780.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70810.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70840.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70870.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70900.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70930.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70960.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 70990.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71020.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71050.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71080.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71110.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71140.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71170.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71200.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 71230.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80030.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80060.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80090.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80120.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80150.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80180.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80210.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80240.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80270.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80300.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80330.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80360.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80390.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80420.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80450.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80480.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80510.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80540.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80570.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80600.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80630.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80660.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80690.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80720.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80750.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80780.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80810.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80840.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80870.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80900.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80930.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80960.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 80990.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81020.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81050.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81080.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81110.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81140.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81170.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81200.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.562   TIME= 15:22:57
+ Specified degree of freedom constraint UZ at unused node 81230.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       9.578   TIME= 15:22:57
+ The program chosen initial timestep/load-factor is arbitrary.  It is    
+ necessary for the user to supply a suitable initial                     
+ timestep/load-factor through the NSUB or DELTIM command for             
+ convergence and overall efficiency.                                     
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.234   TIME= 15:22:57
+ Coefficient ratio exceeds 1.0e8 - Check results.                        
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.812   TIME= 15:22:58
+ A reference moment value times the tolerance is used by the             
+ Newton-Raphson method for checking convergence.  The calculated         
+ reference MOMENT CONVERGENCE VALUE = 1536358.26 is less than a          
+ threshold.  This threshold is internally calculated.  You can           
+ overwrite it by specifying MINREF on the CNVTOL command.  Check         
+ results carefully.                                                      
+
+ *** WARNING ***                         CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70030.         
+
+ *** WARNING ***                         CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70060.         
+
+ *** WARNING ***                         CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70090.         
+
+ *** WARNING ***                         CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70120.         
+
+ *** WARNING ***                         CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70150.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70180.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70210.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70240.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70270.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70300.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70330.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70360.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70390.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70420.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70450.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70480.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70510.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70540.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70570.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70600.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70630.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70660.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70690.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70720.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70750.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70780.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70810.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70840.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70870.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70900.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70930.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70960.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 70990.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71020.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71050.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71080.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71110.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71140.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71170.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71200.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 71230.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80030.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80060.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80090.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80120.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80150.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80180.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80210.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80240.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80270.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80300.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80330.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80360.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80390.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80420.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80450.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80480.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80510.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80540.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80570.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80600.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80630.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80660.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80690.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80720.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80750.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80780.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80810.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80840.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80870.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80900.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80930.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80960.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 80990.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81020.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81050.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81080.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81110.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81140.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81170.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81200.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.625   TIME= 15:28:45
+ Specified degree of freedom constraint UZ at unused node 81230.         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.656   TIME= 15:28:45
+ The program chosen initial timestep/load-factor is arbitrary.  It is    
+ necessary for the user to supply a suitable initial                     
+ timestep/load-factor through the NSUB or DELTIM command for             
+ convergence and overall efficiency.                                     
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      24.344   TIME= 15:28:46
+ Coefficient ratio exceeds 1.0e8 - Check results.                        
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      24.781   TIME= 15:28:46
+ A reference moment value times the tolerance is used by the             
+ Newton-Raphson method for checking convergence.  The calculated         
+ reference MOMENT CONVERGENCE VALUE = 1536358.26 is less than a          
+ threshold.  This threshold is internally calculated.  You can           
+ overwrite it by specifying MINREF on the CNVTOL command.  Check         
+ results carefully.                                                      
